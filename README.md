@@ -1,3 +1,3 @@
-# descripción :D
+# prueba de conexión servidor-local
 
 +++++++++++
